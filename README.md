@@ -1,6 +1,6 @@
 ### Hi there 👋, Bill Kimutai
 #### Software Engineer and Developer
-![Software Engineer and Developer](https://github.com/AmazingMrBill/AmazingMrBill/blob/main/2023-04-22%2023_59_48-AmazingMRBILL%20-%20Desktop%20Wallpaper.png)
+![Software Engineer and Developer](https://github.com/AmazingMrBill/AmazingMrBill/blob/main/2023-04-23%2000_30_58-Untitled%20design%20-%20Email%20Header.png)
 
 As a passionate software engineer, I find joy in creating elegant solutions to complex problems. I am constantly learning and exploring new technologies to improve my skills and knowledge. In addition to my love for programming, I also enjoy meeting new people and building meaningful connections. I believe that collaboration and communication are key to creating successful projects. Let's connect and build something great together!
 
