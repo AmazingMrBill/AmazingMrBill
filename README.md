@@ -9,7 +9,6 @@ KOTLIN / PYTHON / JS / HTML / CSS /
 
 - 🔭 I’m currently working on My Company
 - 🖥️Check out my website at 🌐[ billkimutai.com](https://www.billkimutai.com)
-- [![Visit my website](https://via.placeholder.com/150)](https://www.billkimutai.com)
 
 
 
