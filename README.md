@@ -9,6 +9,8 @@ KOTLIN / PYTHON / JS / HTML / CSS /
 
 - 🔭 I’m currently working on My Company
 - 🖥️Check out my website at 🌐[ billkimutai.com](https://www.billkimutai.com)
+- [![Visit my website](https://via.placeholder.com/150)](https://www.billkimutai.com)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmazingMrBill)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/BillKimutai/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/AmazingMrBill)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/AmazingMrBill)  
