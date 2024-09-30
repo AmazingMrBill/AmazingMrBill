@@ -1,4 +1,4 @@
-![EarthWorldGIF (2)](https://github.com/user-attachments/assets/1aece74e-d1ca-4714-a7c8-fd01067c63e9)![EarthWorldGIF](https://github.com/user-attachments/assets/602925ec-3086-4d7a-9277-336e5273e85e)### Hi there 👋, I'm Bill Kimutai
+### Hi there 👋, I'm Bill Kimutai
 #### Software Engineer and Developer
 ![Software Engineer and Developer](https://github.com/AmazingMrBill/AmazingMrBill/blob/main/2023-04-23%2000_30_58-Untitled%20design%20-%20Email%20Header.png)
 
