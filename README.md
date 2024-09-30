@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bill Kimutai
+![EarthWorldGIF (2)](https://github.com/user-attachments/assets/1aece74e-d1ca-4714-a7c8-fd01067c63e9)![EarthWorldGIF](https://github.com/user-attachments/assets/602925ec-3086-4d7a-9277-336e5273e85e)### Hi there 👋, I'm Bill Kimutai
 #### Software Engineer and Developer
 ![Software Engineer and Developer](https://github.com/AmazingMrBill/AmazingMrBill/blob/main/2023-04-23%2000_30_58-Untitled%20design%20-%20Email%20Header.png)
 
@@ -7,7 +7,8 @@ As a passionate software engineer, I find joy in creating elegant solutions to c
 ### Skills:
 KOTLIN / PYTHON / JS / HTML / CSS / 
 
-- 🔭 I’m currently working on My Company 
+- 🔭 I’m currently working on My Company
+- 🖥️Check out my website at 🌐[ billkimutai.com](https://www.billkimutai.com)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmazingMrBill)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/BillKimutai/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/AmazingMrBill)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/AmazingMrBill)  
